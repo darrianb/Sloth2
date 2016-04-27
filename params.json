@@ -1,0 +1,6 @@
+{
+  "name": "Sloth2",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"/>\r\n\t<title>Untitled</title>\r\n<!--Adobe Edge Runtime-->\r\n    <script type=\"text/javascript\" charset=\"utf-8\" src=\"edge_includes/edge.6.0.0.min.js\"></script>\r\n    <style>\r\n        .edgeLoad-EDGE-307774649 { visibility:hidden; }\r\n    </style>\r\n<script>\r\n   AdobeEdge.loadComposition('Interactive%20Nature%20Study', 'EDGE-307774649', {\r\n    scaleToFit: \"both\",\r\n    centerStage: \"horizontal\",\r\n    minW: \"0px\",\r\n    maxW: \"undefined\",\r\n    width: \"1024px\",\r\n    height: \"800px\"\r\n}, {\r\n    dom: [\r\n\r\n    ],\r\n    style: {\r\n        '${symbolSelector}': {\r\n            isStage: true,\r\n            rect: [undefined, undefined, '1024px', '800px'],\r\n            fill: [\"rgba(255,255,255,1)\"]\r\n        }\r\n    }\r\n}, {dom: [ ]});\r\n</script>\r\n<!--Adobe Edge Runtime End-->\r\n\r\n</head>\r\n<body style=\"margin:0;padding:0;\">\r\n\t<div id=\"Stage\" class=\"EDGE-307774649\">\r\n\t</div>\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
